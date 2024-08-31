@@ -1,5 +1,5 @@
 const Logo = () => {
-  return ( <div>Logo</div> );
+  return ( <div>PEDRO.dev</div> );
 }
  
 export default Logo;
