@@ -12,13 +12,13 @@ const Main = () => {
         <S.Title>Meu nome é Pedro Roger</S.Title>
         <S.Subtitle>Frontend Developer | React | Typescript</S.Subtitle>
         <S.IconContainer>
-          <S.IconLink href="https://www.linkedin.com/in/seu-perfil" target="_blank" rel="noopener noreferrer">
+          <S.IconLink href="https://www.linkedin.com/in/pedro-roger-913533309/" target="_blank" rel="noopener noreferrer">
             <FaLinkedin />
           </S.IconLink>
-          <S.IconLink href="https://github.com/seu-usuario" target="_blank" rel="noopener noreferrer">
+          <S.IconLink href="https://github.com/Pedro-Roger" target="_blank" rel="noopener noreferrer">
             <FaGithub />
           </S.IconLink>
-          <S.IconLink href="mailto:seu-email@exemplo.com">
+          <S.IconLink href="eng.pedrodev@gmail.com">
             <FaEnvelope />
           </S.IconLink>
         </S.IconContainer>
